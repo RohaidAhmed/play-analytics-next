@@ -1,6 +1,6 @@
-# Play Analytics Dashboard — Next.js 14
+# Play Analytics Dashboard — Next.js 16
 
-TypeScript full-stack analytics dashboard for Google Play Store, built with **Next.js 14 App Router**.
+TypeScript full-stack analytics dashboard for Google Play Store, built with **Next.js 16 App Router**.
 
 ---
 
